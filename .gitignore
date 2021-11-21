@@ -1,0 +1,8 @@
+# dependencias
+node_modules
+
+# videos
+cypress/videos
+
+#outros
+.DS_Store
